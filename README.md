@@ -2,7 +2,7 @@
 Analysis of the Boston Airbnb Dataset of Kaggle for the Udacity Data Science Nanodegree
 
 ## Project Description
-The Jupyter Notebook is the result of the first Data Science project of the Udacity Data Science Nanodegree. It is based on Airbnb data available on Kaggle: https://www.kaggle.com/datasets/airbnb/boston?select=listings.csv.
+The Jupyter Notebook is the result of the first Data Science project of the Udacity Data Science Nanodegree. It is based on Airbnb data available on Kaggle: https://www.kaggle.com/datasets/airbnb/boston
 Three questions were answered using the dataset:
 1. How long do people rent homes in Boston? 
 2. What makes a successfull desription of an advertised home?
@@ -10,7 +10,7 @@ Three questions were answered using the dataset:
 In order to do that descriptive statistics and visualisations were used, as well as machine learning methods.
 
 ## Files Used
-Two files of the Boston Airbnb Dataset were used: the calendar.csv and the listings.csv. The first file includes the data for each home from 2016-09-06 to 2017-09-05. It shows if a home was rented and if not how much it would have cost. In the listings.csv the listing of each home is displayed with varios informations such as number of beds, location, etc.
+Two files of the Boston Airbnb Dataset were used: the calendar.csv and the listings.csv. They can be downloaded here: https://www.kaggle.com/datasets/airbnb/boston. The first file includes the data for each home from 2016-09-06 to 2017-09-05. It shows if a home was rented and if not how much it would have cost. In the listings.csv the listing of each home is displayed with varios informations such as number of beds, location, etc.
 
 ## Libraries
 numpy == 1.21.5
