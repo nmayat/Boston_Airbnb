@@ -14,13 +14,13 @@ In order to do that descriptive statistics and visualisations were used, as well
 Two files of the Boston Airbnb Dataset were used: the calendar.csv and the listings.csv. They can be downloaded here: https://www.kaggle.com/datasets/airbnb/boston. The first file includes the data for each home from 2016-09-06 to 2017-09-05. It shows if a home was rented and if not how much it would have cost. In the listings.csv the listing of each home is displayed with varios informations such as number of beds, location, etc.
 
 ## Libraries
-numpy == 1.21.5
-pandas == 1.4.2
-matplotlib == 3.5.1
-wordcloud == 1.8.2.2
-nltk == 3.7
-sklearn == 1.0.2
-ishap = 0.41.0
+numpy == 1.21.5 \
+pandas == 1.4.2 \
+matplotlib == 3.5.1 \
+wordcloud == 1.8.2.2 \
+nltk == 3.7 \
+sklearn == 1.0.2 \
+ishap = 0.41.0  \
 yellowbrick == 1.5
 
 ## Summary of the results
