@@ -7,6 +7,7 @@ Three questions were answered using the dataset:
 1. How long do people rent homes in Boston? 
 2. What makes a successfull desription of an advertised home?
 3. What are the features, that influence the price the most?  
+
 In order to do that descriptive statistics and visualisations were used, as well as machine learning methods.
 
 ## Files Used
