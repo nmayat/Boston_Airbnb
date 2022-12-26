@@ -27,6 +27,6 @@ We saw that most people only spend a few days in the houses, and that some house
 
 ## Acknowledgments
 Follwing sources helped me: 
-1.https://chat.openai.com/chat
-2.https://stackoverflow.com/
-3.https://www.kaggle.com/datasets/airbnb/boston/code?select=reviews.csv
+1. https://chat.openai.com/chat
+2. https://stackoverflow.com/
+3. https://www.kaggle.com/datasets/airbnb/boston/code?select=reviews.csv
